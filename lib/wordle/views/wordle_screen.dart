@@ -43,7 +43,7 @@ class _WordleScreenState extends State<WordleScreen> {
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: const Text(
-          'WORDLE',
+          'FOODLE',
           style: TextStyle(
             fontSize: 36,
             fontWeight: FontWeight.bold,
