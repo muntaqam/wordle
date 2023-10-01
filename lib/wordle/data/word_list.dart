@@ -28,5 +28,5 @@ const List<String> fiveLetterWords = [
   "cider",
   "fudge",
   "guava",
-  "hummus",
+
 ];
