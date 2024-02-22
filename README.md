@@ -1,7 +1,7 @@
 # Foodle - A Wordle Clone
 
 Welcome to Foodle, a captivating word puzzle game inspired by the popular Wordle. Foodle challenges players to guess the correct 5-letter word within six attempts, bringing the enthralling experience of Wordle to your device with a delightful twist.
-
+  <a href="https://greattreads.netlify.app/">Check out the live site! 🚀</a>
 ## Features
 
 - **Clean User Interface:** Experience Wordle with an intuitive and aesthetically pleasing UI that makes gameplay enjoyable and straightforward.
