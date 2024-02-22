@@ -47,3 +47,13 @@ flutter run
 
 
 Thank you for visiting the Foodle repository. Enjoy the game, and happy puzzling!
+
+
+## Author Info
+
+This project was created by Muntaqa Maahi. You can find more about me on my website: [muntaqamaahi.com](https://muntaqamaahi.com/).
+
+---
+
+<sup>[Back To The Top](#foodle---a-wordle-clone)</sup>
+🔼
